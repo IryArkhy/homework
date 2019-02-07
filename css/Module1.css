@@ -1,0 +1,45 @@
+ul.hr {
+    margin: 0; 
+    padding: 10px; 
+  }
+  ul.hr li {
+    display: inline; 
+    margin-right: 0px; 
+    margin-left: 150px;
+    padding: 15px;
+  }
+  a {
+    text-decoration: none;
+    font-family: Georgia;
+  }
+  a.first {
+      color:rgb(110, 176, 218);
+  }
+  a.head {
+      color:lightslategrey;
+  }
+  ul.image1 {
+    margin: 0; 
+    padding: 10px; 
+  }
+  ul.image1 li {
+    display: inline;
+    margin-right: 0px; 
+    margin-left: 60px;
+    padding: 15px;
+  }
+  
+  .morelife  { 
+    display: inline-block;
+    padding: 15px;
+    width: 420px;
+    margin-right: 80px;
+    margin-left: 60px;
+    
+ }
+ .morelife2 {
+  display: inline-block;
+  padding: 5px;
+  width: 420px;
+  
+ }
