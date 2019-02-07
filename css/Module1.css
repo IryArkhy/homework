@@ -67,3 +67,29 @@ ul.hr {
  .right {
     margin-left: 150px;
  }
+ .myButton {
+	-moz-box-shadow:inset 0px 34px 0px -15px #ffffff;
+	-webkit-box-shadow:inset 0px 34px 0px -15px #ffffff;
+	box-shadow: inset 0px 34px 0px -15px #ffffff;
+	background-color:#ffffff;
+	border: 1px solid #bfc4cf;
+	display: inline-block;
+	cursor: pointer;
+	color:#706770;
+	font-family: Playfair Display;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 15px 30px;
+	text-decoration:none;
+    text-shadow: 0px -1px 0px #ffffff;
+    margin: 50px 500px 20px 630px;
+}
+.myButton:hover {
+	background-color:#fcfdff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+  
