@@ -1,11 +1,12 @@
 ul.hr {
-    margin: 0; 
     padding: 10px; 
+    margin-left: 350px;
+    margin-right: 300px;
   }
   ul.hr li {
     display: inline; 
     margin-right: 0px; 
-    margin-left: 150px;
+    margin-left: 50px;
     padding: 15px;
   }
   a {
@@ -23,8 +24,9 @@ ul.hr {
      
   }
   ul.image1 {
-    margin: 0; 
+    margin-top: 100px; 
     padding: 10px; 
+    margin-left: 150px;
   }
   ul.image1 li {
     display: inline;
@@ -36,29 +38,32 @@ ul.hr {
   .morelife  { 
     display: inline-block;
     padding: 15px;
-    width: 420px;
+    width: 580px;
     margin-right: 80px;
     margin-left: 60px;
     
  }
  .morelife2 {
   display: inline-block;
-  padding: 5px;
-  width: 420px;
+  padding: 0px;
+  width: 410px;
  }
  h2 {
      color: #b4ad9e;
      font-family: Ubuntu; 
      font-size: 15px;
-
  }
  h3 {
      color: #626262;
      font-size: 30px;
-     font-family: Playfair Display;
+     font-family: Playfair Display;  
  }
  p {
      color: #626262;
      text-align: justify;  
      font-family: Playfair Display;
+    
+ }
+ .right {
+    margin-left: 150px;
  }
