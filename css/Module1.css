@@ -10,13 +10,17 @@ ul.hr {
   }
   a {
     text-decoration: none;
-    font-family: Georgia;
+    font-family: Playfair Display;
+    cursor: pointer; 
+    
   }
   a.first {
-      color:rgb(110, 176, 218);
+      color: #03a9f4;
+     
   }
   a.head {
-      color:lightslategrey;
+      color:#626262;
+     
   }
   ul.image1 {
     margin: 0; 
@@ -41,5 +45,20 @@ ul.hr {
   display: inline-block;
   padding: 5px;
   width: 420px;
-  
+ }
+ h2 {
+     color: #b4ad9e;
+     font-family: Ubuntu; 
+     font-size: 15px;
+
+ }
+ h3 {
+     color: #626262;
+     font-size: 30px;
+     font-family: Playfair Display;
+ }
+ p {
+     color: #626262;
+     text-align: justify;  
+     font-family: Playfair Display;
  }
