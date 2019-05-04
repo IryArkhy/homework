@@ -623,7 +623,10 @@ li .features__link:hover::after{
         align-items: center;
     }
 
-
+    .f2 {
+        grid-row: 7/14;
+        margin-top: 100px;
+    }
     .ipad {
         width: 300px;
     }
