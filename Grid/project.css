@@ -591,6 +591,7 @@ li .features__link:hover::after{
         align-items: center;
     }
 
+
     .ipad {
         width: 300px;
     }
@@ -601,6 +602,7 @@ li .features__link:hover::after{
     }
     .lil-descrip {
         text-align: center;
+        grid-column: 2;
     }
 }
 
