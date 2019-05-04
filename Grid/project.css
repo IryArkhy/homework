@@ -584,6 +584,38 @@ li .features__link:hover::after{
     
     
 }
+@media (max-width: 1024px) {
+    .lil-descrip {
+        grid-column: 2;
+        text-align: center;
+    }
+    .f2 {
+        grid-row: 11/14;
+        margin: 0;
+    }
+    .button-1 {
+        bottom: 10%;
+    left: 35%;
+    }
+
+}
+
+@media (max-width: 736px) {
+
+    .lil-descrip {
+        grid-column: 2;
+        text-align: center;
+    }
+    .f2 {
+        grid-row: 11/14;
+        margin: 0;
+    }
+    .button-1 {
+        bottom: 10%;
+    left: 35%;
+    }
+
+}
 
 @media (max-width: 414px) {
     .menu {
