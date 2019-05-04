@@ -641,4 +641,35 @@ li .features__link:hover::after{
     }
 }
 
+@media (max-width: 375px) {
+    
+
+    .menu {
+        display: flex;
+        align-items: center;
+    }
+
+    .menu li {
+        padding: 0 10px;
+        font-size: 14px;
+
+    }
+
+    .f2 {
+        grid-row: 7/14;
+    }
+    .ipad {
+        width: 300px;
+    }
+    .button-1 {
+        top: 50%;
+        bottom: 40%;
+        left: 28%;
+    }
+    .lil-descrip {
+        text-align: center;
+        grid-column: 2;
+    }
+}
+
 
